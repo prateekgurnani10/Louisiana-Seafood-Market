@@ -1,4 +1,6 @@
-# Louisiana-Seafood-Market
+# Louisiana-Seafood-Market 🐟 🐠 🍤
+
+
 
 An Application that sells seafood to people from various markets. Built with love from React, ES6, Javascript and Firebase.
 
@@ -10,7 +12,7 @@ An Application that sells seafood to people from various markets. Built with lov
 
 4. After that, run 'npm start' and the browser will show that the react application is up and running.
 
-# Frequently Asked Questions
+# Frequently Asked Questions 🤔 🤔
 
 if you can't see the React tab in my dev tools?
 
