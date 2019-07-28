@@ -9,7 +9,7 @@ class App extends React.Component {
   state = {
     fishes: {},
     order: {}
-  };
+  }; //React
   componentDidMount() {
     const { params } = this.props.match;
     const localStorageRef = localStorage.getItem(params.storeId);
