@@ -2,10 +2,10 @@ import React from "react";
 
 const Header = props => (
   <header className="top">
-    <h1>CAJUN SHIT SEAFOOD</h1>
+    <h1> Louisiana SEAFOOD </h1>{" "}
     <h3 className="tagline">
-      <span>{props.tagline}</span>
-    </h3>
+      <span> {props.tagline} </span>{" "}
+    </h3>{" "}
   </header>
 );
 
