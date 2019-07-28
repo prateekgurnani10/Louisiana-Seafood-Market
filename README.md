@@ -2,7 +2,9 @@
 
 
 
-An Application that sells seafood to people from various markets. Built with love from React, ES6, Javascript and Firebase.
+An Application that sells seafood to people from various markets. Built with love from React, ES6, Javascript and Firebase. Click on the link below to see the project:
+
+https://cotd.prateekgurnani10.now.sh/
 
 **Note** - If you have trouble installing packages, please do the following:
 
